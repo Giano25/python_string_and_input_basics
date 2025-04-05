@@ -1,0 +1,2 @@
+number = int(input("\nProg02 - Enter a number (0-1000): "))
+print("Output: {:06d}".format(number))
